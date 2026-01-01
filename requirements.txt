@@ -1,0 +1,8 @@
+quart
+asyncio
+argparse
+patchright
+camoufox[geoip]
+fastapi
+uvicorn
+pydantic
